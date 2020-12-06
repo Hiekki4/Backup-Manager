@@ -1,0 +1,12 @@
+{
+    "token": "Token do bot",
+    "name": "Nome do bot",
+    "footer": "Footer dos embeds",
+    "prefix": "Prefixo",
+    "versão": "1.0.0",
+    "owner": ["ID"],
+    "color": "RANDOM",
+    "mongoDB": "LINK DA DB",
+    "clientID": "ID do bot",
+    "invite": "convite do bot"
+    }
